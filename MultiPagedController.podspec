@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MultiPagedController'
-  s.version          = '1.0.1'
+  s.version          = '1.0.0'
   s.summary          = 'MultiPagedController gives ability to create simple paged controller.'
   s.description      = <<-DESC
 MultiPagedController is a simple framework that allows you to create page controllers without doing extra work

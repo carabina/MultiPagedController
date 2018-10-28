@@ -22,7 +22,7 @@ pod 'MultiPagedController'
 
 ## Author
 
-RomanTheBaby, mailofrom@gmail.com
+RomanTheBaby
 
 ## License
 
