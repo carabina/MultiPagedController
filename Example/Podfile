@@ -1,0 +1,6 @@
+use_frameworks!
+target 'MultiPagedController_Tests' do
+  pod 'MultiPagedController', :path => '../'
+  
+  
+end
