@@ -1,6 +1,6 @@
 # MultiPagedController
 
-[![CI Status](https://img.shields.io/travis/R0manUp/MultiPagedController.svg?style=flat)](https://travis-ci.org/R0manUp/MultiPagedController)
+[![CI Status](https://img.shields.io/travis/RomanTheBaby/MultiPagedController.svg?style=flat)](https://travis-ci.org/RomanTheBaby/MultiPagedController)
 [![Version](https://img.shields.io/cocoapods/v/MultiPagedController.svg?style=flat)](https://cocoapods.org/pods/MultiPagedController)
 [![License](https://img.shields.io/cocoapods/l/MultiPagedController.svg?style=flat)](https://cocoapods.org/pods/MultiPagedController)
 [![Platform](https://img.shields.io/cocoapods/p/MultiPagedController.svg?style=flat)](https://cocoapods.org/pods/MultiPagedController)
@@ -22,7 +22,7 @@ pod 'MultiPagedController'
 
 ## Author
 
-R0manUp, roman.onyshkevych@uptech.team
+RomanTheBaby, mailofrom@gmail.com
 
 ## License
 

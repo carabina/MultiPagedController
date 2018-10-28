@@ -8,35 +8,23 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MultiPagedController'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of MultiPagedController.'
-
-# This description is used to generate tags and improve search results.
-#   * Think: What does it do? Why did you write it? What is the focus?
-#   * Try to keep it short, snappy and to the point.
-#   * Write the description between the DESC delimiters below.
-#   * Finally, don't worry about the indent, CocoaPods strips it!
-
+  s.version          = '1.0.1'
+  s.summary          = 'MultiPagedController gives ability to create simple paged controller.'
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+MultiPagedController is a simple framework that allows you to create page controllers without doing extra work
                        DESC
 
-  s.homepage         = 'https://github.com/R0manUp/MultiPagedController'
+  s.homepage         = 'https://github.com/RomanTheBaby/MultiPagedController'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'R0manUp' => 'roman.onyshkevych@uptech.team' }
-  s.source           = { :git => 'https://github.com/R0manUp/MultiPagedController.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.author           = { 'RomanTheBaby' => 'mailofrom@gmail.com' }
+  s.source           = { :git => 'https://github.com/RomanTheBaby/MultiPagedController.git', :tag => s.version.to_s }
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '10.0'
 
   s.source_files = 'MultiPagedController/Classes/**/*'
-  
-  # s.resource_bundles = {
-  #   'MultiPagedController' => ['MultiPagedController/Assets/*.png']
-  # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
+  s.frameworks = 'UIKit'
+  s.swift_version = '4.2'
 end

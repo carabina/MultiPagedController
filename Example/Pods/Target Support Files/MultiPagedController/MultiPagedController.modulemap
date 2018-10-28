@@ -1,0 +1,6 @@
+framework module MultiPagedController {
+  umbrella header "MultiPagedController-umbrella.h"
+
+  export *
+  module * { export * }
+}

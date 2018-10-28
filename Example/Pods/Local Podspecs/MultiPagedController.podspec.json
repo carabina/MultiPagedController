@@ -1,0 +1,22 @@
+{
+  "name": "MultiPagedController",
+  "version": "0.1.0",
+  "summary": "A short description of MultiPagedController.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/R0manUp/MultiPagedController",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "R0manUp": "roman.onyshkevych@uptech.team"
+  },
+  "source": {
+    "git": "https://github.com/R0manUp/MultiPagedController.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MultiPagedController/Classes/**/*"
+}
